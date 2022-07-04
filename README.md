@@ -1,10 +1,10 @@
 # InducedProxys
 
-Http Proxy: https://raw.githubusercontent.com/trhacknon/proxy-list/main/proxys/http.txt
+Http Proxy: https://raw.githubusercontent.com/trhacknon/proxy-list-s4-s5/main/proxys/http.txt
 <br>
-Https Proxy: https://raw.githubusercontent.com/trhacknon/proxy-list/main/proxys/https.txt
+Https Proxy: https://raw.githubusercontent.com/trhacknon/proxy-list-s4-s5/main/proxys/https.txt
 <br>
-Socks4 Proxy: https://raw.githubusercontent.com/trhacknon/proxy-list/main/proxys/socks4.txt
+Socks4 Proxy: https://raw.githubusercontent.com/trhacknon/proxy-list-s4-s5/main/proxys/socks4.txt
 <br>
-Proxys Proxy: https://raw.githubusercontent.com/trhacknon/proxy-list/main/proxys/proxys.txt
+Proxys Proxy: https://raw.githubusercontent.com/trhacknon/proxy-list-s4-s5/main/proxys/proxys.txt
 
